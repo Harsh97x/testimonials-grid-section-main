@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Harsh97x/testimonials-grid-section-main/blob/main/design/desktop-preview.jpg)
 
 ### Links
 
